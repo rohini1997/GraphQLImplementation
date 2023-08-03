@@ -1,0 +1,10 @@
+query GetPhotos{
+    photos{
+        data{
+            id
+            title
+            url
+        }
+    }
+
+}
